@@ -1,4 +1,6 @@
 # 제이쿼리를 이용하여 웹사이트 만들기
+![image](https://user-images.githubusercontent.com/102035198/176817845-6ef39274-acf9-4863-b002-232e59aa7379.png)<br>
+![image](https://user-images.githubusercontent.com/102035198/176816476-9ed221b1-b233-4516-a79e-4ee1a7c14873.png)<br>
 # index 코드
 ![image](https://user-images.githubusercontent.com/102035198/176809084-49e1b972-0c62-4bc4-a995-36f7685f7568.png)<br>
 로고 이미지를 넣어 사이트의 왼쪽 상단에 로고를 넣어줌<br>
@@ -16,6 +18,3 @@ div를 이용하여 검색창을 만들었다 <br>
 ![image](https://user-images.githubusercontent.com/102035198/176816526-95af79c5-a4ba-44e7-8f66-28f06d052f0a.png)
 ![image](https://user-images.githubusercontent.com/102035198/176816625-8c13c4eb-101e-47b9-9257-908b5ee49927.png)<br>
 테이블 색상과 테두리를 만들고 2번째 줄마다 색상을 노란색으로 만들어지게 css코드를 작성<br>
-# 출력화면
-![image](https://user-images.githubusercontent.com/102035198/176817845-6ef39274-acf9-4863-b002-232e59aa7379.png)<br>
-![image](https://user-images.githubusercontent.com/102035198/176816476-9ed221b1-b233-4516-a79e-4ee1a7c14873.png)<br>
