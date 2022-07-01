@@ -17,4 +17,4 @@ div를 이용하여 검색창을 만들었다 <br>
 2초마다 사진들을 순서대로 바꿔준다<br>
 ![image](https://user-images.githubusercontent.com/102035198/176816526-95af79c5-a4ba-44e7-8f66-28f06d052f0a.png)
 ![image](https://user-images.githubusercontent.com/102035198/176816625-8c13c4eb-101e-47b9-9257-908b5ee49927.png)<br>
-테이블 색상과 테두리를 만들고 2번째 줄마다 색상을 노란색으로 만들어지게 css코드를 작성<br>
+테이블 색상과 테두리를 만들고 2번째 줄마다 색상을 노란색으로 만들어지게 css코드를 작성하였다.<br>
