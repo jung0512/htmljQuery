@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css" type="text/css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js" defer="defer"></script>
+    <script src="js/script.js" defer="defer"></script>
+    <title>Document</title>
+</head>
+<body>
+    <div id='page'>
+        <header>
+            <div id='logo'>
+                <img src="img/logo.png">
+            </div>
+            <div id="rigthMenu">
+                <input id="serch" type="text" placeholder="크록스 지비츠 프로모션">
+                <button>검색</button>
+            </div>
+            <div id='top'>
+                  <ul class="main">
+                    <li>
+                        <a href="#">오시는 길</a>
+                        <ul class="sub"> 
+                            <li><a href="#">성남신흥점</a></li>
+                            <li><a href="#">성남터미널점</a></li>
+                            <li><a href="#">강남본점</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#">BRAND</a>
+                        <ul class="sub">
+                            <li><a href="#">ALKI ALKA</a></li>
+                            <li><a href="#">CLAYONG</a></li>
+                            <li><a href="#">NIKE</a></li>
+                            <li><a href="#">BALANSA</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#">MEN</a>
+                        <ul class="sub">
+                            <li><a href="#">신발</a></li>
+                            <li><a href="#">의류</a></li>
+                            <li><a href="#">잡화</a></li>
+                            <li><a href="#">용품</a></li>
+                        </ul>
+                    </li> 
+                    <li>
+                        <a href="#">WOMEN</a>
+                        <ul class="sub">
+                            <li><a href="#">신발</a></li>
+                            <li><a href="#">의류</a></li>
+                            <li><a href="#">가발</a></li>
+                            <li><a href="#">악세서리</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#" >로그인</a>
+                        <ul class="sub">
+                            <li onclick="winOpen1()"><a href="#">로그인</a></li>
+                            <li onclick="winOpen2()"><a href="#">회원가입</a></li>
+                            <li><a href="#">최근 본 상품</a></li>
+                            <li><a href="#">장바구니</a></li>
+                            <li><a href="#">주문 내역</a></li>
+                        </ul>
+                    </li>
+                 </ul>
+            </div>
+        </header>
+        <section>
+                 <div class="img">
+                    <img src='img/ABC4.jpg'>
+                    <img src='img/ABClogo1.jpg'>
+                    <img src='img/ABC2.jpg'>
+                    <img src='img/ABC3.jpg'>
+                     <img src='img/ABC1.jpg'>
+                     <img src='img/ABC5.jpg'>
+                 </div>
+        </section>
+        <div id="wrap">
+            <div class="notice">
+                <h2>세일 항목</h2>	        
+                <table class="table">
+                    <tr>
+                        <th>이미지</th>
+                        <th>신발</th>
+                        <th>가격</th>
+                        <th>사이즈</th>
+                        <th>구매</th>
+                    </tr>
+                    <tr>
+                        <td><img src="img/아스티어 우먼스.jpg" class="신발"></td>
+                        <td><a href="#">아디다스 아스티어 우먼스</a></td>
+                        <td><strong>109,000원</strong> <span>65,000원[40%]<span></td>
+                        <td>품절</td>
+                        <td><a href="#">바로 구매</a></td>
+                    </tr>
+                    <tr>
+                        <td><img src="img/올드스쿨.jpg" class="신발"></td>
+                        <td><a href="#">반스 <br>올드 스쿨</a></td>
+                        <td><strong>79,000원</strong> <span>39,000[50%]</span></td>
+                        <td>220&nbsp;225&nbsp;230&nbsp;235&nbsp;240&nbsp;245&nbsp;250&nbsp;255&nbsp;<br><strong>260</strong></td>
+                        <td><a href="#">바로 구매</a></td>
+                    </tr>
+                    <tr>
+                        <td><img src="img/슈퍼비.jpg" class="신발"></td>
+                        <td><a href="#">반스 <br>슈퍼비</a></td>
+                        <td><strong>69,000원</strong> <span>29,000[57%]</span></td>
+                        <td>220&nbsp;225&nbsp;<strong>230&nbsp;235&nbsp;240&nbsp;245&nbsp;250&nbsp;255&nbsp;<br>260&nbsp;265&nbsp;270&nbsp;275&nbsp;280&nbsp;290</strong></td>
+                        <td><a href="#">바로 구매</a></td>
+                    </tr>
+                    <tr>
+                        <td><img src="img/오즈위고 퓨어.jpg" class="신발"></td>
+                        <td><a href="#">아디다스 <br>오즈위고 퓨어</a></td>
+                        <td><strong>129,000원</strong> <span>64,000원[50%]</span></td>
+                        <td>225&nbsp;230&nbsp;235&nbsp;240&nbsp;245&nbsp;250&nbsp;255&nbsp;260&nbsp;<br>265&nbsp;270&nbsp;275&nbsp;280&nbsp;<strong>300</strong></td>
+                        <td><a href="#">바로 구매</a></td>
+                    </tr>
+                    <tr>
+                        <td><img src="img/유니온2.jpg" class="신발"></td>
+                        <td><a href="#">반스 <br>유니온2</a></td>
+                        <td><strong>65,000원</strong> <span>29,000원[55%]</span></td>
+                        <td>220&nbsp;<strong>&nbsp;230&nbsp;245&nbsp;250&nbsp;255&nbsp;260&nbsp;265&nbsp;<br>270&nbsp;275&nbsp;280&nbsp;300</strong></td>
+                        <td><a href="#">바로 구매</a></td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <footer>
+            <div id="address" align="center">
+            <img src="img/끝.png">
+            </div>
+        </footer>
+    </div>
+    </body>
+</html>
