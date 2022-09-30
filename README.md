@@ -11,10 +11,10 @@ div를 이용하여 검색창을 만들었다 <br>
 메뉴들을 리스트 형태로 만들어줌<br>
 마우스가 리스트 위에 있으면 회색 바탕으로 바뀐다<br>
 ![image](https://user-images.githubusercontent.com/102035198/176809365-343e7af5-a539-4c27-9318-1ca6496520f9.png)<br>
-마우스가 리스트 위에 있으면 해당 메뉴바를 내려준다<br>
+마우스가 리스트 위에 있으면 해당 메뉴바를 내려줍니다<br>
 ![image](https://user-images.githubusercontent.com/102035198/176809179-bf083527-58f9-49d1-82ae-268661a9be33.png)
 ![image](https://user-images.githubusercontent.com/102035198/176809319-0245a745-b4d3-40bb-b0ea-690a8ebf8555.png)<br>
-2초마다 사진들을 순서대로 바꿔준다<br>
+2초마다 사진들을 정해진 순서대로 바꿔줍니다<br>
 ![image](https://user-images.githubusercontent.com/102035198/176816526-95af79c5-a4ba-44e7-8f66-28f06d052f0a.png)
 ![image](https://user-images.githubusercontent.com/102035198/176816625-8c13c4eb-101e-47b9-9257-908b5ee49927.png)<br>
-테이블 색상과 테두리를 만들고 2번째 줄마다 색상을 노란색으로 만들어지게 css코드를 작성하였다.<br>
+테이블 색상과 테두리를 만들고 2번째 줄마다 색상을 노란색으로 만들어지게 css코드를 작성하였습니다<br>
